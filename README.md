@@ -1,5 +1,4 @@
-# 转行了!转行了!
-### 我现在已经是~~Translator~~ the Greastest Language Changer
+### 我是~~Translator~~ the Greastest Language Changer
 ###### 一个经营三十年客户全“_不_”投诉的Language Changer!
 ###### 支持编程语言的翻译!
 ---
