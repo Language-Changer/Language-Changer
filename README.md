@@ -12,3 +12,7 @@
 - 土豆店的大客户Farmer John。
 - 马铃薯店(~~其实是同一家店~~)的董事长B。
 - 土豆的供应商马铃薯。
+
+---
+
+嘿，这个[网站](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)是个好东西
