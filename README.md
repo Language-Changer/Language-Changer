@@ -1,4 +1,4 @@
-### ~~the Greastest Language Changer~~ Translator
+# ~~the Greastest Language Changer~~ Translator
 ###### 一个经营三十年客户全“_不_”投诉的Language Changer!
 ###### 支持编程语言的翻译!
 ---
