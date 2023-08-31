@@ -14,6 +14,12 @@ But I think it is enough for me to use them in junior middle school in China.
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Language-Changer)](https://github.com/Language-Changer/github-readme-stats)
+![Dorion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Language-Changer&icons=true&theme=dark)
+
+... Low!
+---
+
 My **poor** and **low** [website](https://language-changer.github.io/).
 
 *(Beg to be excused)*
