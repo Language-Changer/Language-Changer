@@ -1,17 +1,22 @@
-# ~~the Greastest Language Changer~~ Translator
-###### 一个经营三十年客户全“_不_”投诉的Language Changer!
-###### 支持编程语言的翻译!
+# Dorion J. Y. Chou
+~~the Greastest Language Changer~~ Translator
+
 ---
-#### 定价
-- 被翻译文一个意思表达单位(如一个单词,一个汉字)定价为5元,共x个。
-- 翻译后文章一个意思表达单位定价10元,共y个。
-- 翻译前后一个分隔符(如一个空格,逗号)定价-1元,共z个。
-- 总价sum(元) = 5 × x + 10 × y - z。
+###### LOL
+
+> A new hand of coding.
+
+I always study in a large coverage.
+
+However, because of the reason, my knowledge usually shallow :3
+
+But I think it is enough for me to use them in junior middle school in China.
+
 ---
-#### 感谢
-- 土豆店的大客户Farmer John。
-- 马铃薯店(~~其实是同一家店~~)的董事长B。
-- 土豆的供应商马铃薯。
+
+My **poor** and **low** [website](https://language-changer.github.io/).
+
+*(Beg to be excused)*
 
 ---
 
