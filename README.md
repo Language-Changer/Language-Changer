@@ -1,4 +1,4 @@
-# Dorion J. Y. Chou
+# Dorion Y. Chou
 ~~the Greastest Language Changer~~ Translator
 
 ---
