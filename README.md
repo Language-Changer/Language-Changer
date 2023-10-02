@@ -1,5 +1,5 @@
 # Dorion Y. Chou
-~~the Greastest Language Changer~~ Translator
+~~the Greastest Language Changer~~ Translator (no
 
 ---
 ###### LOL
