@@ -20,7 +20,7 @@ Emm... Where is *Markdown* or *Java*?
 
 ---
 
-My **poor** and **low** [website](https://language-changer.github.io/).
+My **poor** [website](https://language-changer.github.io/).
 
 *(Beg to be excused)*
 
